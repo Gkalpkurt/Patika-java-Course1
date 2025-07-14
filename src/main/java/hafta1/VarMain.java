@@ -20,7 +20,7 @@ public class VarMain {
 
     name = "Patika";
 
-
+    var value = 20;
 
 
 
