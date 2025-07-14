@@ -22,6 +22,7 @@ public class VarMain {
 
     var value = 20;
 
+    
 
 
 
