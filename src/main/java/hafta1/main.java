@@ -7,6 +7,7 @@ public static void main(String[] args) {
 
     System.out.println("Hello Patika Dev1");
 
+
     System.out.println("Hello Patika Dev2");
 
     System.out.println("Hello Patika Dev3");
@@ -82,6 +83,55 @@ public static void main(String[] args) {
 
     boolean isFalse = false || true;
     boolean isFalse1 = (false || true) && (false && false) || (true && true && false);
+
+
+    String name = "merhaba dünya";
+    System.out.println(name);
+
+    int length = name.length();
+  System.out.println(length);
+  
+  System.out.println( name.toLowerCase());
+
+  String toUpper = name.toUpperCase();
+  System.out.println(toUpper);
+
+  System.out.println(name.charAt(5));
+  System.out.println("merhaba patika".substring(8));
+  String hi = "merhaba, ";
+  System.out.println(hi + "patika");
+
+  boolean isStringsEquals = hi. equals(name);
+  System.out.println(isStringsEquals);
+  boolean isStringsEquals1 = "hi".equals("patika");
+  System.out.println(isStringsEquals1);
+
+  String s1 = "Java";
+  String s2 = new String("Java");
+  String s3 = "Java";
+  String s4 = "java";
+
+  System.out.println("s1 esit mi s2" + s1.equals(s2));
+  System.out.println("s1 esit mi s4" + s1.equals(s4));
+
+  System.out.println("s1 eşit mi s4" + s1 == s4);
+  System.out.println("s1 eşit mi s2" + s1 == s2);
+
+  System.out.println(s1 == s2);
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
 
 
 
