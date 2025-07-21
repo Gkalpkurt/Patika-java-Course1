@@ -1,4 +1,4 @@
-package Ödevler;
+package Hafta1_Ödevler;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Switchcase;
+package hafta1_Pratik_Ders;
 
 public class SwitchCaseMain {
 
