@@ -50,14 +50,14 @@ Open a terminal in the project directory.
 Compile the Java files:
 
 bash
-Kopyala
-Düzenle
+Copy
+Edit
 javac *.java
 Run the program:
 
 bash
-Kopyala
-Düzenle
+Copy
+Edit
 java Main
 📌 Example Scenario
 User selects 1 to add a new book.
@@ -75,3 +75,4 @@ Chooses 6 to exit the system.
 
 ✅ Notes
 All comments in the code are written in English for practice and clarity.
+
