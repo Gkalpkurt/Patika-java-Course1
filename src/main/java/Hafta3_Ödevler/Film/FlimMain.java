@@ -1,4 +1,4 @@
-package Hafta3_Ödevler;
+package Hafta3_Ödevler.Film;
 
 public class FlimMain {
     public static void main(String[] args) {

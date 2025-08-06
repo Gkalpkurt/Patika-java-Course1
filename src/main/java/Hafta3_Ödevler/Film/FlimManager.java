@@ -1,4 +1,4 @@
-package Hafta3_Ödevler;
+package Hafta3_Ödevler.Film;
 
 import java.util.ArrayList;
 import java.util.Collections;
