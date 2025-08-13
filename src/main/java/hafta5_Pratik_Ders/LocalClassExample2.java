@@ -15,3 +15,4 @@ public class LocalClassExample2 {
         local.message();
     }
 }
+

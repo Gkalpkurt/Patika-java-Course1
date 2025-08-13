@@ -1,4 +1,4 @@
-# Student Record - Java Records Örneği
+# Student Record - Java hafta5_Ödevler.Records Örneği
 
 Bu proje, Java **Record** yapısını kullanarak öğrencilerin temel bilgilerini saklayan basit bir öğrenci kayıt sistemi örneğidir.  
 `Record` sınıfı immutable (değiştirilemez) yapıda olup, `toString()`, `equals()` ve `hashCode()` metotlarını otomatik olarak oluşturur.
@@ -20,3 +20,4 @@ src/
 - **Karşılaştırma**: `equals()` metodu ile iki öğrenci nesnesinin aynı olup olmadığı kontrol edilir.
 
 ---
+

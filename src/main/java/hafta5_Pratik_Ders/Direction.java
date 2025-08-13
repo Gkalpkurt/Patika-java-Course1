@@ -16,3 +16,4 @@ private final int angle;
         return angle;
     }
 }
+

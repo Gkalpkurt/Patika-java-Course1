@@ -1,4 +1,4 @@
-package Records;
+package hafta5_Ödevler.Records;
 
 public record Student(String firstName, String lastName, String studentId) {
     // Record'larda hashCode, equals ve toString otomatik olarak oluşturulur.
@@ -9,3 +9,4 @@ public record Student(String firstName, String lastName, String studentId) {
         return firstName + " " + lastName;
     }
 }
+

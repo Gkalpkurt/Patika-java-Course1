@@ -26,3 +26,4 @@ public enum Day {
         return start.format(fmt) + " - " + end.format(fmt);
     }
 }
+

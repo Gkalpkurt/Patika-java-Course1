@@ -6,3 +6,4 @@ public record Rectangle1 (int with , int height) {
         return with * height;
     }
 }
+

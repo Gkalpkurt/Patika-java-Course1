@@ -39,4 +39,6 @@ public class WorkSchedule {
     public void showWorkingHours(Day day) {
         System.out.println(day + " çalışma saatleri: " + day.getWorkingHours());
     }
+
+
 }

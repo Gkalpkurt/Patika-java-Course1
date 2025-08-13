@@ -1,4 +1,4 @@
-package Records;
+package hafta5_Ödevler.Records;
 
 public class MainApp {
     public static void main(String[] args) {
@@ -25,5 +25,6 @@ public class MainApp {
 
         System.out.println("student1 hashCode: " + student1.hashCode());
         System.out.println("student3 hashCode: " + student3.hashCode());
+
     }
 }

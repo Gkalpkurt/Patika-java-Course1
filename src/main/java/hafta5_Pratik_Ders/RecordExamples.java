@@ -30,3 +30,4 @@ public class RecordExamples {
         var child2 = new Bird(0,"Şeyma", "Hümüş");
     }
 }
+
