@@ -1,4 +1,4 @@
-package hafta5_Ödevler.Records;
+package Records;
 
 public record Student(String firstName, String lastName, String studentId) {
     // Record'larda hashCode, equals ve toString otomatik olarak oluşturulur.

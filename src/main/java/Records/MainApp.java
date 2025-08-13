@@ -1,4 +1,4 @@
-package hafta5_Ödevler.Records;
+package Records;
 
 public class MainApp {
     public static void main(String[] args) {
